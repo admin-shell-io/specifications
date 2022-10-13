@@ -1,1 +1,1 @@
-This internet repository provides specifications for Asset Administration Shell (AAS).
+This repository provides specifications for Asset Administration Shell (AAS).
