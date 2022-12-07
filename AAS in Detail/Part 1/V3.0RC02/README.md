@@ -1,5 +1,3 @@
-This document, version 3.0RC02, was produced from November 2020 to May 2022 by the sub working group “Asset Administration Shell” of the joint Working Group of Platform Industrie 4.0 Working Group “Reference Architectures, Standards and Norms“ and the “Open Technology” Working Group of the Industrial Digital Twin Association.
-
 # The exchange of information between partners in the value chain of Industrie 4.0 (Version 3.0RC02)   
 
 
